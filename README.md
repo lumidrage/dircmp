@@ -9,7 +9,7 @@
 |  |- file "abc.txt" is missing in "example/a"
 |  |- file "def.txt" is missing in "example/b"
 |  |- file "test.txt" differs
-|  |- file "baz" in "example/a" but a dir in "example/b"
+|  |- file "baz" in "example/a" is a dir in "example/b"
 |  |- dir "foobar" is missing in "example/b"
 |  |- dir "folder"
 |  |  |- file "ijk.txt" differs
